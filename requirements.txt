@@ -4,3 +4,8 @@ numpy
 matplotlib
 scikit-learn
 plotly
+```text
+qhchina>=0.2.0
+opencc-python-reimplemented
+jieba
+pandas
